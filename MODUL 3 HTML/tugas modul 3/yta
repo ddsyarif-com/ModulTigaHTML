@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Sekolah</title>
+</head>
+<body>
+    <table border="1" width="100%" cellpadding="10">
+        <tr>
+            <!-- Kolom kiri: Logo Universitas -->
+            <td width="20%" align="center">
+                <img src="logo-universitas.png" alt="Logo Universitas" width="100">
+            </td>
+            <!-- Kolom kanan: Nama Sekolah -->
+            <td align="center">
+                <h3>SMK NEGERI 2 MOJOKERTO</h3>
+                <p>Jl Pulorejo Desa Pulorejo, Kecamatan Prajurit Kulon, Kota Mojokerto</p>
+            </td>
+        </tr>
+
+        <tr>
+            <!-- Sidebar Menu -->
+            <td valign="top" align="center">
+                <table border="1" width="100%">
+                    <tr><td align="center"><a href="#">HOME</a></td></tr>
+                    <tr><td align="center"><a href="#">JURUSAN</a></td></tr>
+                    <tr><td align="center"><a href="#">DATA SISWA</a></td></tr>
+                    <tr><td align="center"><a href="#">DATA GURU</a></td></tr>
+                    <tr><td align="center"><a href="#">EKSTRAKURIKULER</a></td></tr>
+                </table>
+            </td>
+
+            <!-- Isi Halaman -->
+            <td valign="top">
+                <!-- Bagian Logo Sekolah dan Judul Visi Misi -->
+                <div style="text-align: center;">
+                    <img src="logo-sekolah.png" alt="Logo Sekolah" width="80" style="vertical-align: middle;">
+                    <h3 style="display: inline-block; margin-left: 10px;">
+                        VISI DAN MISI<br>SMK NEGERI 2 MOJOKERTO
+                    </h3>
+                </div>
+
+                <!-- Isi Visi & Misi -->
+                <p><b>Visi</b></p>
+                <p>SMK Negeri 2 Mojokerto, menghasilkan Sumber Daya Manusia (SDM) yang berkarakter, 
+                   kompeten dan siap kerja serta mampu berwirausaha di era globalisasi.</p>
+
+                <p><b>Misi</b></p>
+                <p>Mengembangkan sistem pendidikan yang berorientasi pada mutu berakar norma budaya bangsa Indonesia. 
+                   Meningkatkan layanan prima, bersinergi dengan masyarakat Dunia Usaha/Industri sebagai bentuk 
+                   pemenuhan tenaga kerja secara profesional. Mewujudkan tamatan yang cerdas, kompeten, 
+                   mempunyai etos kerja dan siap bersaing di era globalisasi.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
